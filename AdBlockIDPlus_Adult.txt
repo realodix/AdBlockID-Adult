@@ -1,54 +1,70 @@
 [Adblock Plus 2.0]
-! Version: 1
+! Version: 2.0.0
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
 
+||2d7e1ea7b8500684a.com^$third-party
 ||d3g5ovfngjw9bw.cloudfront.net^$third-party
+
+# NS-*.AWSDNS-
+# 205.251.19*.***
 ||2cnjuh34jbhub.com^$third-party
 ||2cnjuh34jbstar.com^$third-party
-||2d7e1ea7b8500684a.com^$third-party
-||terrasdsdstd.com^$third-party
+||mrjb7hvcks.com^$third-party
+||pocrowpush.com^$third-party
 ||premiumvertising.com^$third-party
 ||roujaufu.net^$third-party
+||smart2cnjuh34jb.com^$third-party
+||terrasdsdstd.com^$third-party
 
-! https://github.com/Yhonay/antipopads
-! 208.94.148.2, 208.80.124.2, 208.80.125.2
-! 208.80.126.2, 208.80.127.2
+# https://github.com/Yhonay/antipopads
+# 208.94.148.2, 208.80.124.2, 208.80.125.2
+# 208.80.126.2, 208.80.127.2
 ||ahqpqpdjpj.com^$third-party
 ||intellipopup.com^$third-party
 ||olkrzytv.com^$third-party
 ||shqbsdjatunl.com^$third-party
 ||ueuodgnrhb.com^$third-party
+||vumclvwizwrbhi.com^$third-party
+||xhihzgwcplmh.com^$third-party
 
 111.90.150.188###netkevin-overlay
 111.90.150.188###netkevin-popup
 
 128.199.102.111##.happy-inside-player
+128.199.102.111##.header-ad-mobile
+128.199.102.111##.under-player-ad-mobile
 128.199.102.111##+js(window.open-defuser)
-128.199.102.111#%#//scriptlet('prevent-window-open')
 
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
 128.199.68.59##+js(nobab)
 128.199.68.59##+js(window.open-defuser)
-128.199.68.59#%#//scriptlet("prevent-bab")
-128.199.68.59#%#//scriptlet('prevent-window-open')
 
 128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
 
+159.65.130.32##.header-ad-mobile
+159.65.130.32##.under-player-ad
+
+159.89.207.166#@#[href*="159.89.207.166"]
+159.89.207.166###content a[target="_blank"] img
+
 159.89.221.2##.inside-player-ad
 159.89.221.2##+js(window.open-defuser)
-159.89.221.2#%#//scriptlet('prevent-window-open')
 
 167.71.196.69##.happy-inside-player
 167.71.196.69##.happy-under-player
 167.71.196.69##+js(window.open-defuser)
-167.71.196.69#%#//scriptlet('prevent-window-open')
+
+# 206.189.85.58
+/banner-$image,domain=206.189.85.58
+206.189.85.58##.happy-under-player-mobile
+
+207.148.6.82##.widget-area a[target="_blank"] img
 
 207.148.70.66##+js(window.open-defuser)
-207.148.70.66#%#//scriptlet('prevent-window-open')
 
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
@@ -56,14 +72,18 @@
 
 45.76.33.4###btm_banner
 
-! 45.77.76.243
-! https://github.com/realodix/AdBlockID/commit/119b8624fff65f3b77cba27039410fb4b78a491b
-@@||bokep8.icu^$image,third-party
+# 45.77.76.243
+# bokep-barat.info
+# https://github.com/realodix/AdBlockID/commit/119b8624fff65f3b77cba27039410fb4b78a491b
+@@||bokep8.icu/*.jpg|
+@@||bokep8.icu/*.png|
 45.77.76.243###fixedban
 45.77.76.243##iframe[style*="width: 100%; height: 70px;"]
 45.77.76.243##iframe[sandbox*="allow-popups"]
 45.77.76.243##+js(window.open-defuser)
-45.77.76.243#%#//scriptlet('prevent-window-open')
+||bokep8.icu/*/banner-$image
+bokep-barat.info###fixedban
+bokep-barat.info#@#[href*="bokep-barat."] img
 
 68.183.237.173##.under-player-ad
 68.183.237.173##.with-sidebar-ads
@@ -79,45 +99,44 @@ bokep-barat.net###fixedban
 
 bokepbarat.net##.simple_overlay
 
-! bugilfoto.com
+# bugilfoto.com
 ||bugilfoto.com/banner/$image
 
-! BokepFB.Info & Cambaby.info
+# BokepFB.Info & Cambaby.info
 ||96.43.139.236/banner/$image
 96.43.139.236#@#[href*="96.43.139.236"] img
 96.43.139.236###fixedban
 96.43.139.237##.popUpBannerBox
 
-! apkori.website
+# apkori.website
 apkori.website##+js(aopr, window.DHAntiAdBlocker)
-apkori.website#%#//scriptlet('abort-on-property-read', 'window.DHAntiAdBlocker')
 vidoza.net##+js(window.open-defuser)
-vidoza.net#%#//scriptlet('prevent-window-open')
+
+bugil.online##.happy-inside-player
 
 bokepindohot.pw##+js(nobab)
-bokepindohot.pw#%#//scriptlet("prevent-bab")
 
 filmbokep33.club#@#[href*="filmbokep"]
 
 filmbokepbarat168.com#@#[href*="filmbokep"]
 filmbokepbarat168.com###btm_banner1
 
-! filmsemi31.blogspot.com
+# filmsemi31.blogspot.com
 @@||filmsemi31.blogspot.com^$ghide
 filmsemi31.blogspot.com###sidebar .HTML:has-text(Adv)
 
-! filmxxx.xyz
+# filmxxx.xyz
 ||filmxxx.xyz^*/ads-$image
 
 gocrot.com##.gocrot_i_b_2
 gocrot.com###gocrot_i_b_4
 gocrot.com###gocrot_i_b_3
+gocrot.com##img[height="70"][width="1100"]
 
-! igotaut.xyz
+# igotaut.xyz
 @@||terrapsps.com^$script,domain=igotaut.xyz
 igotaut.xyz##.notif:has-text(Adblock)
 igotaut.xyz##+js(window.open-defuser)
-igotaut.xyz#%#//scriptlet('prevent-window-open')
 
 indosemi45.org###ouibounce-modal
 
@@ -127,35 +146,39 @@ jagogoyang.info#@#[href*="jagogoyang."]
 jagogoyang.info#@#img[alt*="nonton video bokep" i]
 
 lendirnikmat.site##.happy-inside-player
+lendirnikmat.site#@#[href*="lendirnikmat."]
+lendirnikmat.site#@#[href*="entotin"] img
 
 minioppai.org###floatcenter
 minioppai.org##+js(nobab)
 minioppai.org##+js(window.open-defuser)
-minioppai.org#%#//scriptlet("prevent-bab")
-minioppai.org#%#//scriptlet('prevent-window-open')
 
 nekopoi.care##.ads
 nekopoi.care##.adsgen
 
 ngentot.vip###btm_banner
 
+pepek.bar##.happy-inside-player
+
 redtube53.info##.redtu-sticky
 redtube53.info##[href*="/track/"]
 
-! semprot
+# Semprot
 ##.semprotnenenmontok_adalah_pujaan_hatiku
 46.166.167.16##.js-post:has-text(Banned)
 
 teenpornvideo.fun##.full-ave:has-text(Adv)
 
+tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
+
 tontonan.net##.footer-sticky
 
-! Video Crot
+# Video Crot
 167.99.31.83##.inside-player-ad
+167.99.31.83##.under-player-ad
 167.99.31.83##+js(window.open-defuser)
-167.99.31.83#%#//scriptlet('prevent-window-open')
 188.166.197.213##.inside-player-ad
 188.166.197.213##+js(window.open-defuser)
-188.166.197.213#%#//scriptlet('prevent-window-open')
 
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
+vimaxdenpasar.com##.entry-content a[target="_blank"] img
