@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
-! Version: 2.0.0
+! Version: 3.0
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
 
 ||2d7e1ea7b8500684a.com^$third-party
+||d13jhr4vol1304.cloudfront.net^$third-party
 ||d3g5ovfngjw9bw.cloudfront.net^$third-party
 
 # NS-*.AWSDNS-
@@ -29,6 +30,11 @@
 ||vumclvwizwrbhi.com^$third-party
 ||xhihzgwcplmh.com^$third-party
 
+##[href*="pocrowpush.com"]
+
+!
+! MULTI FILTER
+!
 111.90.150.188###netkevin-overlay
 111.90.150.188###netkevin-popup
 
@@ -42,8 +48,6 @@
 
 128.199.68.59##+js(nobab)
 128.199.68.59##+js(window.open-defuser)
-
-128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -62,28 +66,26 @@
 /banner-$image,domain=206.189.85.58
 206.189.85.58##.happy-under-player-mobile
 
-207.148.6.82##.widget-area a[target="_blank"] img
-
-207.148.70.66##+js(window.open-defuser)
-
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
 45.32.122.145#@#[href*="103.10.200.45"]
 
-45.76.33.4###btm_banner
-
 # 45.77.76.243
 # bokep-barat.info
 # https://github.com/realodix/AdBlockID/commit/119b8624fff65f3b77cba27039410fb4b78a491b
+@@||bokep8.icu/*.jpeg|
 @@||bokep8.icu/*.jpg|
 @@||bokep8.icu/*.png|
+||bokep8.icu/*/banner-$image
 45.77.76.243###fixedban
 45.77.76.243##iframe[style*="width: 100%; height: 70px;"]
 45.77.76.243##iframe[sandbox*="allow-popups"]
 45.77.76.243##+js(window.open-defuser)
-||bokep8.icu/*/banner-$image
 bokep-barat.info###fixedban
 bokep-barat.info#@#[href*="bokep-barat."] img
+
+51.81.115.212##div[id^="adsic"]
+51.81.115.212##.widget a[href*="/?ref="] img
 
 68.183.237.173##.under-player-ad
 68.183.237.173##.with-sidebar-ads
@@ -95,13 +97,6 @@ abg17.com##article img[width="400"][height="219"]
 abg17.com###livechat-eye-catcher-img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
 
-bokep-barat.net###fixedban
-
-bokepbarat.net##.simple_overlay
-
-# bugilfoto.com
-||bugilfoto.com/banner/$image
-
 # BokepFB.Info & Cambaby.info
 ||96.43.139.236/banner/$image
 96.43.139.236#@#[href*="96.43.139.236"] img
@@ -112,11 +107,16 @@ bokepbarat.net##.simple_overlay
 apkori.website##+js(aopr, window.DHAntiAdBlocker)
 vidoza.net##+js(window.open-defuser)
 
-bugil.online##.happy-inside-player
+# ceritaseq.com
+||ceritaseq.com^*/promotion_$image
+ceritaseq.com##.qode-banner-left
+ceritaseq.com##.wpb_overlay
+ceritaseq.com##.widget widget_buffercode_banner_upload_info
 
-bokepindohot.pw##+js(nobab)
-
-filmbokep33.club#@#[href*="filmbokep"]
+# cerpenhot.com
+||cerpenhot.com^*/promotion_$image
+cerpenhot.com##.qode-banner-left
+cerpenhot.com##.widget widget_buffercode_banner_upload_info
 
 filmbokepbarat168.com#@#[href*="filmbokep"]
 filmbokepbarat168.com###btm_banner1
@@ -125,8 +125,8 @@ filmbokepbarat168.com###btm_banner1
 @@||filmsemi31.blogspot.com^$ghide
 filmsemi31.blogspot.com###sidebar .HTML:has-text(Adv)
 
-# filmxxx.xyz
-||filmxxx.xyz^*/ads-$image
+filmsemi55.net###floating_banner_left
+filmsemi55.net###floating_banner_right
 
 gocrot.com##.gocrot_i_b_2
 gocrot.com###gocrot_i_b_4
@@ -137,8 +137,6 @@ gocrot.com##img[height="70"][width="1100"]
 @@||terrapsps.com^$script,domain=igotaut.xyz
 igotaut.xyz##.notif:has-text(Adblock)
 igotaut.xyz##+js(window.open-defuser)
-
-indosemi45.org###ouibounce-modal
 
 jagogoyang.info##[href^="https://apgrv.com/www/delivery/ck.php"]
 jagogoyang.info#@#[href*="entotin"] img
@@ -156,22 +154,20 @@ minioppai.org##+js(window.open-defuser)
 nekopoi.care##.ads
 nekopoi.care##.adsgen
 
-ngentot.vip###btm_banner
-
-pepek.bar##.happy-inside-player
+# putri77
+54.36.246.81##div[id^="adsic"]
+ceritabokepindonesia.info##div[id^="adsic"]
+ceritabokepindonesia.info##div[id^="adsic"]
+putri77.com##div[id^="adsic"]
+putri77.info##div[id^="adsic"]
+putri77.org##div[id^="adsic"]
 
 redtube53.info##.redtu-sticky
 redtube53.info##[href*="/track/"]
 
 # Semprot
 ##.semprotnenenmontok_adalah_pujaan_hatiku
-46.166.167.16##.js-post:has-text(Banned)
-
-teenpornvideo.fun##.full-ave:has-text(Adv)
-
-tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
-
-tontonan.net##.footer-sticky
+46.166.167.16,semprot.com##.js-post:has-text(Banned)
 
 # Video Crot
 167.99.31.83##.inside-player-ad
@@ -182,3 +178,43 @@ tontonan.net##.footer-sticky
 
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
+
+!
+! SINGLE FILTER
+!
+||bugil.top/adv/$image
+||bugilfoto.com/banner/$image
+||filmxxx.xyz^*/ads-$image
+128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
+139.99.118.115##div[id^="adsic"]
+139.99.33.195##div[id^="adsic"]
+139.99.33.199##div[id^="adsic"]
+139.99.33.213##div[id^="adsic"]
+139.99.33.214##div[id^="adsic"]
+139.99.51.105##div[id^="adsic"]
+207.148.6.82##.widget-area a[target="_blank"] img
+207.148.70.66##+js(window.open-defuser)
+209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
+45.76.33.4###btm_banner
+66.42.87.58###fixedban
+bokep-barat.net###fixedban
+bokep.space##[href*="quadrupleclick.com"]
+bokepbarat.net##.simple_overlay
+bokepindohot.pw##+js(nobab)
+bugil.online##.happy-inside-player
+ceritanakal.xyz##.kln
+filmbokep33.club#@#[href*="filmbokep"]
+fotobokep.info##.simple_overlay
+fotobokepjepang.com##div[id^="adsic"]
+indobispak.com##.header-img-wrapper
+indosemi45.org###ouibounce-modal
+ngentot.vip###btm_banner
+ngentotbareng.com##div[id^="adsic"]
+pepek.bar##.happy-inside-player
+photomemek.com##div[id^="adsic"]
+porno-pornox.com##.qode-banner-left
+stampin-de-va.blogspot.com##.seoquake-nofollow
+subtitlecinema.com##div[id^="adsic"]
+teenpornvideo.fun##.full-ave:has-text(Adv)
+tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
+tontonan.net##.footer-sticky
