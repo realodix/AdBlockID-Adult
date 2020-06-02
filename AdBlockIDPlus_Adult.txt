@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 3.0
+! Version: 4.0
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -46,8 +46,8 @@
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
-128.199.68.59##+js(nobab)
-128.199.68.59##+js(window.open-defuser)
+128.199.68.59,149.28.156.65,207.148.70.66,45.77.246.31##+js(nobab)
+128.199.68.59,149.28.156.65,207.148.70.66,45.77.246.31##+js(window.open-defuser)
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -86,10 +86,6 @@ bokep-barat.info#@#[href*="bokep-barat."] img
 
 51.81.115.212##div[id^="adsic"]
 51.81.115.212##.widget a[href*="/?ref="] img
-
-68.183.237.173##.under-player-ad
-68.183.237.173##.with-sidebar-ads
-68.183.237.173###fixedban
 
 abg17.com###fixedban
 abg17.com##article img[width="300"][height="50"]
@@ -157,10 +153,7 @@ nekopoi.care##.adsgen
 # putri77
 54.36.246.81##div[id^="adsic"]
 ceritabokepindonesia.info##div[id^="adsic"]
-ceritabokepindonesia.info##div[id^="adsic"]
-putri77.com##div[id^="adsic"]
-putri77.info##div[id^="adsic"]
-putri77.org##div[id^="adsic"]
+putri77.com,putri77.info,putri77.org##div[id^="adsic"]
 
 redtube53.info##.redtu-sticky
 redtube53.info##[href*="/track/"]
@@ -169,12 +162,15 @@ redtube53.info##[href*="/track/"]
 ##.semprotnenenmontok_adalah_pujaan_hatiku
 46.166.167.16,semprot.com##.js-post:has-text(Banned)
 
+# sukanontonbokep
+157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###fixedban
+157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.under-player-ad
+157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.with-sidebar-ads
+
 # Video Crot
-167.99.31.83##.inside-player-ad
-167.99.31.83##.under-player-ad
-167.99.31.83##+js(window.open-defuser)
-188.166.197.213##.inside-player-ad
-188.166.197.213##+js(window.open-defuser)
+167.99.31.83,188.166.197.213##+js(window.open-defuser)
+167.99.31.83,188.166.197.213##.inside-player-ad
+167.99.31.83,188.166.197.213##.under-player-ad
 
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
@@ -193,7 +189,6 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 139.99.33.214##div[id^="adsic"]
 139.99.51.105##div[id^="adsic"]
 207.148.6.82##.widget-area a[target="_blank"] img
-207.148.70.66##+js(window.open-defuser)
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 45.76.33.4###btm_banner
 66.42.87.58###fixedban
