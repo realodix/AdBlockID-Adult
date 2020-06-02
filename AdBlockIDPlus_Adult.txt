@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.0
+! Version: 4.1
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -46,8 +46,7 @@
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
-128.199.68.59,149.28.156.65,207.148.70.66,45.77.246.31##+js(nobab)
-128.199.68.59,149.28.156.65,207.148.70.66,45.77.246.31##+js(window.open-defuser)
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -92,6 +91,10 @@ abg17.com##article img[width="300"][height="50"]
 abg17.com##article img[width="400"][height="219"]
 abg17.com###livechat-eye-catcher-img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
+
+# ayuoctaavia[at]gmail.com
+128.199.176.163,bokepindoxxi.com##+js(aopr, document.oncontextmenu)
+128.199.176.163,bokepindoxxi.com##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
 
 # BokepFB.Info & Cambaby.info
 ||96.43.139.236/banner/$image
@@ -150,6 +153,11 @@ minioppai.org##+js(window.open-defuser)
 nekopoi.care##.ads
 nekopoi.care##.adsgen
 
+# NontonBokep69
+# bit.ly/NontonBokep69
+128.199.108.173##+js(aopr, document.oncontextmenu)
+128.199.108.173##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
+
 # putri77
 54.36.246.81##div[id^="adsic"]
 ceritabokepindonesia.info##div[id^="adsic"]
@@ -171,6 +179,10 @@ redtube53.info##[href*="/track/"]
 167.99.31.83,188.166.197.213##+js(window.open-defuser)
 167.99.31.83,188.166.197.213##.inside-player-ad
 167.99.31.83,188.166.197.213##.under-player-ad
+
+# vibokep.xyz
+||vibokep.xyz^*/banners/$image
+vibokep.xyz##.under-player-ad
 
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
