@@ -6,7 +6,6 @@
 
 ||2d7e1ea7b8500684a.com^$third-party
 ||d13jhr4vol1304.cloudfront.net^$third-party
-||d3g5ovfngjw9bw.cloudfront.net^$third-party
 
 # NS-*.AWSDNS-
 # 205.251.19*.***
