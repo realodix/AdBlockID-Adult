@@ -21,9 +21,7 @@
 # https://github.com/Yhonay/antipopads
 # 208.94.148.2, 208.80.124.2, 208.80.125.2
 # 208.80.126.2, 208.80.127.2
-||ahqpqpdjpj.com^$third-party
 ||intellipopup.com^$third-party
-||olkrzytv.com^$third-party
 ||shqbsdjatunl.com^$third-party
 ||ueuodgnrhb.com^$third-party
 ||vumclvwizwrbhi.com^$third-party
