@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.1
+! Version: 4.2
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -32,6 +32,8 @@
 !
 ! MULTI FILTER
 !
+111.90.150.188##.ktz-aftermenubanner
+111.90.150.188##.ktz-bannersingletop
 111.90.150.188###netkevin-overlay
 111.90.150.188###netkevin-popup
 
@@ -40,10 +42,15 @@
 128.199.102.111##.under-player-ad-mobile
 128.199.102.111##+js(window.open-defuser)
 
+128.199.102.136##.bannersinglefot
+128.199.102.136##.headbanner
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
-128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
+
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
+# https://xvidx.inidokter.com/jwplayer9.js
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -60,11 +67,18 @@
 
 # 206.189.85.58
 /banner-$image,domain=206.189.85.58
+206.189.85.58##.happy-under-player
 206.189.85.58##.happy-under-player-mobile
 
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
 45.32.122.145#@#[href*="103.10.200.45"]
+
+45.76.33.4##.headbanner
+45.76.33.4##.box-banner
+45.76.33.4##.bannersinglefot
+45.76.33.4##.ktz_banner
+45.76.33.4###btm_banner
 
 # 45.77.76.243
 # bokep-barat.info
@@ -83,15 +97,21 @@ bokep-barat.info#@#[href*="bokep-barat."] img
 51.81.115.212##div[id^="adsic"]
 51.81.115.212##.widget a[href*="/?ref="] img
 
+# http://www.abg17.com
 abg17.com###fixedban
 abg17.com##article img[width="300"][height="50"]
 abg17.com##article img[width="400"][height="219"]
 abg17.com###livechat-eye-catcher-img
+abg17.com###main-wrapper a[target="_blank"] img
+abg17.com##body > center a[target="_blank"] img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
 
 # ayuoctaavia[at]gmail.com
 128.199.176.163,bokepindoxxi.com##+js(aopr, document.oncontextmenu)
 128.199.176.163,bokepindoxxi.com##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
+128.199.176.163##.ktz-aftermenubanner
+bokepindoxxi.com##.idmuvi-afterplayer
+bokepindoxxi.com##.idmuvi-topplayer
 
 # BokepFB.Info & Cambaby.info
 ||96.43.139.236/banner/$image
@@ -112,7 +132,10 @@ ceritaseq.com##.widget widget_buffercode_banner_upload_info
 # cerpenhot.com
 ||cerpenhot.com^*/promotion_$image
 cerpenhot.com##.qode-banner-left
+cerpenhot.com##.qode-banner-right
 cerpenhot.com##.widget widget_buffercode_banner_upload_info
+cerpenhot.com##.widget_buffercode_banner_upload_info
+cerpenhot.com##.wpb-outer-wrap
 
 filmbokepbarat168.com#@#[href*="filmbokep"]
 filmbokepbarat168.com###btm_banner1
@@ -120,9 +143,6 @@ filmbokepbarat168.com###btm_banner1
 # filmsemi31.blogspot.com
 @@||filmsemi31.blogspot.com^$ghide
 filmsemi31.blogspot.com###sidebar .HTML:has-text(Adv)
-
-filmsemi55.net###floating_banner_left
-filmsemi55.net###floating_banner_right
 
 gocrot.com##.gocrot_i_b_2
 gocrot.com###gocrot_i_b_4
@@ -134,14 +154,22 @@ gocrot.com##img[height="70"][width="1100"]
 igotaut.xyz##.notif:has-text(Adblock)
 igotaut.xyz##+js(window.open-defuser)
 
+indosemi45.org###ouibounce-modal
+indosemi45.org##.idmuvi-banner-beforecontent
+indosemi45.org##.idmuvi-topbanner-aftermenu
+
 jagogoyang.info##[href^="https://apgrv.com/www/delivery/ck.php"]
 jagogoyang.info#@#[href*="entotin"] img
 jagogoyang.info#@#[href*="jagogoyang."]
 jagogoyang.info#@#img[alt*="nonton video bokep" i]
 
 lendirnikmat.site##.happy-inside-player
-lendirnikmat.site#@#[href*="lendirnikmat."]
+lendirnikmat.xyz##.happy-header
+lendirnikmat.xyz##.happy-sidebar
+lendirnikmat.xyz##.happy-under-player
+lendirnikmat.xyz##.happy-footer
 lendirnikmat.site#@#[href*="entotin"] img
+lendirnikmat.site#@#[href*="lendirnikmat."]
 
 minioppai.org###floatcenter
 minioppai.org##+js(nobab)
@@ -154,6 +182,17 @@ nekopoi.care##.adsgen
 # bit.ly/NontonBokep69
 128.199.108.173##+js(aopr, document.oncontextmenu)
 128.199.108.173##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
+
+# pepek.bar
+||pepek.bar^*/BANNER-$image
+pepek.bar##.happy-header
+pepek.bar##.happy-inside-player
+pepek.bar##.happy-under-player
+pepek.bar##.happy-footer
+
+porno-pornox.com##.qode-banner-left
+porno-pornox.com##.qode-banner-right
+porno-pornox.com##.wpb-outer-wrap
 
 # putri77
 54.36.246.81##div[id^="adsic"]
@@ -199,7 +238,6 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 139.99.51.105##div[id^="adsic"]
 207.148.6.82##.widget-area a[target="_blank"] img
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
-45.76.33.4###btm_banner
 66.42.87.58###fixedban
 bokep-barat.net###fixedban
 bokep.space##[href*="quadrupleclick.com"]
@@ -211,12 +249,9 @@ filmbokep33.club#@#[href*="filmbokep"]
 fotobokep.info##.simple_overlay
 fotobokepjepang.com##div[id^="adsic"]
 indobispak.com##.header-img-wrapper
-indosemi45.org###ouibounce-modal
 ngentot.vip###btm_banner
 ngentotbareng.com##div[id^="adsic"]
-pepek.bar##.happy-inside-player
 photomemek.com##div[id^="adsic"]
-porno-pornox.com##.qode-banner-left
 stampin-de-va.blogspot.com##.seoquake-nofollow
 subtitlecinema.com##div[id^="adsic"]
 teenpornvideo.fun##.full-ave:has-text(Adv)
