@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.2
+! Version: 4.3
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -42,11 +42,16 @@
 128.199.102.111##.under-player-ad-mobile
 128.199.102.111##+js(window.open-defuser)
 
+# 128.199.102.136
+||anon.wapsite.info/banner/$image
+128.199.102.136##.entry-content a[target="_blank"] img
 128.199.102.136##.bannersinglefot
 128.199.102.136##.headbanner
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
+128.199.84.59###floating_ads_bottom_textcss_container
+128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
 
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
@@ -61,9 +66,17 @@
 159.89.221.2##.inside-player-ad
 159.89.221.2##+js(window.open-defuser)
 
+
+
 167.71.196.69##.happy-inside-player
 167.71.196.69##.happy-under-player
 167.71.196.69##+js(window.open-defuser)
+
+! 192.243.98.23
+192.243.98.23##.happy-header
+192.243.98.23##.happy-sidebar
+192.243.98.23##.happy-under-player
+192.243.98.23###floating_ads_bottom_textcss_container
 
 # 206.189.85.58
 /banner-$image,domain=206.189.85.58
@@ -88,6 +101,7 @@
 @@||bokep8.icu/*.png|
 ||bokep8.icu/*/banner-$image
 45.77.76.243###fixedban
+45.77.76.243###content a[target="_blank"] img
 45.77.76.243##iframe[style*="width: 100%; height: 70px;"]
 45.77.76.243##iframe[sandbox*="allow-popups"]
 45.77.76.243##+js(window.open-defuser)
@@ -210,6 +224,8 @@ redtube53.info##[href*="/track/"]
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###fixedban
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.under-player-ad
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.with-sidebar-ads
+157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###content a[target="_blank"] img
+157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##+js(window.open-defuser)
 
 # Video Crot
 167.99.31.83,188.166.197.213##+js(window.open-defuser)
@@ -223,19 +239,24 @@ vibokep.xyz##.under-player-ad
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
 
+# xpanascom.co
+||128.199.204.40^*/banner-$image
+128.199.204.40,159.65.128.138,159.65.129.249,159.65.132.54,159.89.205.63,178.128.16.25,178.128.53.2,206.189.42.229###fixedban
+128.199.204.40,159.65.128.138,159.65.129.249,159.65.132.54,159.89.205.63,178.128.16.25,178.128.53.2,206.189.42.229##.banner-img
+
 !
 ! SINGLE FILTER
 !
 ||bugil.top/adv/$image
 ||bugilfoto.com/banner/$image
 ||filmxxx.xyz^*/ads-$image
-128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
 139.99.118.115##div[id^="adsic"]
 139.99.33.195##div[id^="adsic"]
 139.99.33.199##div[id^="adsic"]
 139.99.33.213##div[id^="adsic"]
 139.99.33.214##div[id^="adsic"]
 139.99.51.105##div[id^="adsic"]
+164.68.127.15##.banner-img
 207.148.6.82##.widget-area a[target="_blank"] img
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 66.42.87.58###fixedban
