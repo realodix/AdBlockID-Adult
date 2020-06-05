@@ -50,12 +50,12 @@
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
-128.199.84.59###floating_ads_bottom_textcss_container
-128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
-
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
 # https://xvidx.inidokter.com/jwplayer9.js
+
+128.199.84.59###floating_ads_bottom_textcss_container
+128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -65,8 +65,6 @@
 
 159.89.221.2##.inside-player-ad
 159.89.221.2##+js(window.open-defuser)
-
-
 
 167.71.196.69##.happy-inside-player
 167.71.196.69##.happy-under-player
