@@ -158,37 +158,37 @@ vidoza.net##+js(window.open-defuser)
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 !
+! 45.77.76.243
+! 128.199.102.136
 ! 192.243.98.23
+! 206.189.85.58
+! BokepFB.Info & Cambaby.info
 ! MULTI FILTER
+! NontonBokep69
 ! SINGLE FILTER
-# 45.77.76.243
-# 128.199.102.136
+! Semprot
+! Video Crot
+! apkori.website
+! ayuoctaavia[at]gmail.com
+! bit.ly/NontonBokep69
+! bokep-barat.info
+! ceritaseq.com
+! cerpenhot.com
+! filmsemi31.blogspot.com
+! https://github.com/realodix/AdBlockID/commit/119b8624fff65f3b77cba27039410fb4b78a491b
+! https://xvidx.inidokter.com/jwplayer9.js
+! http://www.abg17.com
+! igotaut.xyz
+! pepek.bar
+! putri77
+! sukanontonbokep
+! vibokep.xyz
+! xpanascom.co
 # 205.251.19*.***
-# 206.189.85.58
 # 208.80.126.2, 208.80.127.2
 # 208.94.148.2, 208.80.124.2, 208.80.125.2
-# BokepFB.Info & Cambaby.info
 # NS-*.AWSDNS-
-# NontonBokep69
-# Semprot
-# Video Crot
-# apkori.website
-# ayuoctaavia[at]gmail.com
-# bit.ly/NontonBokep69
-# bokep-barat.info
-# ceritaseq.com
-# cerpenhot.com
-# filmsemi31.blogspot.com
 # https://github.com/Yhonay/antipopads
-# https://github.com/realodix/AdBlockID/commit/119b8624fff65f3b77cba27039410fb4b78a491b
-# https://xvidx.inidokter.com/jwplayer9.js
-# http://www.abg17.com
-# igotaut.xyz
-# pepek.bar
-# putri77
-# sukanontonbokep
-# vibokep.xyz
-# xpanascom.co
 ##.semprotnenenmontok_adalah_pujaan_hatiku
 ##[href*="pocrowpush.com"]
 /banner-$image,domain=206.189.85.58
