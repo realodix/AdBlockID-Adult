@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.3
+! Version: 4.4
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -72,8 +72,10 @@
 
 ! 192.243.98.23
 192.243.98.23##.happy-header
+192.243.98.23##.happy-header-mobile
 192.243.98.23##.happy-sidebar
 192.243.98.23##.happy-under-player
+192.243.98.23##.happy-under-player-mobile
 192.243.98.23###floating_ads_bottom_textcss_container
 
 # 206.189.85.58
