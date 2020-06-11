@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.5
+! Version: 4.6
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -153,6 +153,9 @@ cerpenhot.com##.qode-banner-right
 cerpenhot.com##.widget widget_buffercode_banner_upload_info
 cerpenhot.com##.widget_buffercode_banner_upload_info
 cerpenhot.com##.wpb-outer-wrap
+
+downloadajadisini.com###main-popup
+downloadajadisini.com#@#[href*="entotin"] img
 
 filmbokepbarat168.com#@#[href*="filmbokep"]
 filmbokepbarat168.com###btm_banner1
