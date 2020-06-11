@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.4
+! Version: 4.5
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -121,6 +121,7 @@ abg17.com##body > center a[target="_blank"] img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
 
 # ayuoctaavia[at]gmail.com
+||blogspot.com/*.gif$image,domain=128.199.176.163
 128.199.176.163,bokepindoxxi.com##+js(aopr, document.oncontextmenu)
 128.199.176.163,bokepindoxxi.com##body:style(user-select: text !important; -webkit-touch-callout: default !important;)
 128.199.176.163##.ktz-aftermenubanner
@@ -128,7 +129,9 @@ bokepindoxxi.com##.idmuvi-afterplayer
 bokepindoxxi.com##.idmuvi-topplayer
 
 # BokepFB.Info & Cambaby.info
+||96.43.139.235/banner/$image
 ||96.43.139.236/banner/$image
+||96.43.139.237/banner/$image
 96.43.139.236#@#[href*="96.43.139.236"] img
 96.43.139.236###fixedban
 96.43.139.237##.popUpBannerBox
