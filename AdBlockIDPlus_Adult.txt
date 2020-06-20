@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.6
+! Version: 4.7
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -54,8 +54,12 @@
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
 # https://xvidx.inidokter.com/jwplayer9.js
 
+128.199.84.59##.content-area a[target="_blank"] img
 128.199.84.59###floating_ads_bottom_textcss_container
 128.199.84.59##iframe[style*="width: 100%; height: 70px;"]
+
+157.230.193.154##.banner-img
+157.230.193.154###top_banner
 
 159.65.130.32##.header-ad-mobile
 159.65.130.32##.under-player-ad
@@ -78,10 +82,19 @@
 192.243.98.23##.happy-under-player-mobile
 192.243.98.23###floating_ads_bottom_textcss_container
 
+! 199.38.245.239
+||199.38.245.239/wp-content/uploads/*.gif$image
+||blogspot.com/*.gif$image,domain=199.38.245.239
+199.38.245.239##.elementor-row a[target="_blank"] img
+
 # 206.189.85.58
 /banner-$image,domain=206.189.85.58
 206.189.85.58##.happy-under-player
 206.189.85.58##.happy-under-player-mobile
+
+! 209.58.168.138
+209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
+209.58.168.138##.wrapper a[target="_blank"] img
 
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
@@ -120,6 +133,10 @@ abg17.com###main-wrapper a[target="_blank"] img
 abg17.com##body > center a[target="_blank"] img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
 
+# apkori.website
+apkori.website##+js(aopr, window.DHAntiAdBlocker)
+vidoza.net##+js(window.open-defuser)
+
 # ayuoctaavia[at]gmail.com
 ||blogspot.com/*.gif$image,domain=128.199.176.163
 128.199.176.163,bokepindoxxi.com##+js(aopr, document.oncontextmenu)
@@ -136,9 +153,12 @@ bokepindoxxi.com##.idmuvi-topplayer
 96.43.139.236###fixedban
 96.43.139.237##.popUpBannerBox
 
-# apkori.website
-apkori.website##+js(aopr, window.DHAntiAdBlocker)
-vidoza.net##+js(window.open-defuser)
+bokep-jepang.co#@#[href*="bokep-jepang."]
+bokep-jepang.co##iframe[style*="width: 100%; height: 70px;"]
+
+! bokepv.com
+bokepv.com##.widget-content a[target="_blank"] img
+bokepv.com##.widget-list a[target="_blank"] img
 
 # ceritaseq.com
 ||ceritaseq.com^*/promotion_$image
@@ -229,7 +249,7 @@ redtube53.info##[href*="/track/"]
 # sukanontonbokep
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###fixedban
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.under-player-ad
-157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.with-sidebar-ads
+157.245.195.114,157.245.63.252,167.99.74.239,206.189.33.12,67.99.74.239,68.183.237.173##.with-sidebar-ads
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###content a[target="_blank"] img
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##+js(window.open-defuser)
 
@@ -253,6 +273,9 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 !
 ! SINGLE FILTER
 !
+||blogspot.com/*.gif$image,domain=192.243.98.23
+||blogspot.com/*.gif$image,domain=khalidcompany.com
+
 ||bugil.top/adv/$image
 ||bugilfoto.com/banner/$image
 ||filmxxx.xyz^*/ads-$image
@@ -264,7 +287,6 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 139.99.51.105##div[id^="adsic"]
 164.68.127.15##.banner-img
 207.148.6.82##.widget-area a[target="_blank"] img
-209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 66.42.87.58###fixedban
 bokep-barat.net###fixedban
 bokep.space##[href*="quadrupleclick.com"]
