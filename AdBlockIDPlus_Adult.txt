@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.8
+! Version: 4.9
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -275,6 +275,7 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 !
 ! SINGLE FILTER
 !
+/banner-$image,domain=itubokep.xyz
 ||blogspot.com/*.gif$image,domain=178.128.100.128
 ||blogspot.com/*.gif$image,domain=192.243.98.23
 ||blogspot.com/*.gif$image,domain=khalidcompany.com
