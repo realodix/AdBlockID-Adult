@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.7
+! Version: 4.8
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -32,10 +32,11 @@
 !
 ! MULTI FILTER
 !
-111.90.150.188##.ktz-aftermenubanner
-111.90.150.188##.ktz-bannersingletop
-111.90.150.188###netkevin-overlay
-111.90.150.188###netkevin-popup
+# XTUBECINEMA
+111.90.150.188,128.199.89.53##.ktz-aftermenubanner
+111.90.150.188,128.199.89.53##.ktz-bannersingletop
+111.90.150.188,128.199.89.53###netkevin-overlay
+111.90.150.188,128.199.89.53###netkevin-popup
 
 128.199.102.111##.happy-inside-player
 128.199.102.111##.header-ad-mobile
@@ -174,6 +175,7 @@ cerpenhot.com##.widget widget_buffercode_banner_upload_info
 cerpenhot.com##.widget_buffercode_banner_upload_info
 cerpenhot.com##.wpb-outer-wrap
 
+downloadajadisini.com##.top-banner-mobile
 downloadajadisini.com###main-popup
 downloadajadisini.com#@#[href*="entotin"] img
 
@@ -273,6 +275,7 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 !
 ! SINGLE FILTER
 !
+||blogspot.com/*.gif$image,domain=178.128.100.128
 ||blogspot.com/*.gif$image,domain=192.243.98.23
 ||blogspot.com/*.gif$image,domain=khalidcompany.com
 
@@ -294,7 +297,6 @@ bokepbarat.net##.simple_overlay
 bokepindohot.pw##+js(nobab)
 bugil.online##.happy-inside-player
 ceritanakal.xyz##.kln
-filmbokep33.club#@#[href*="filmbokep"]
 fotobokep.info##.simple_overlay
 fotobokepjepang.com##div[id^="adsic"]
 indobispak.com##.header-img-wrapper
@@ -306,3 +308,6 @@ subtitlecinema.com##div[id^="adsic"]
 teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
+
+fap18.net#@#.ad_mobile
+filmbokep33.club#@#[href*="filmbokep"]
