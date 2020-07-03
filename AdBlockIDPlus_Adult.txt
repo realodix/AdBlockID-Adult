@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.10
+! Version: 4.11
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -125,6 +125,10 @@ bokep-barat.info#@#[href*="bokep-barat."] img
 51.81.115.212##div[id^="adsic"]
 51.81.115.212##.widget a[href*="/?ref="] img
 
+! 66.42.54.200
+_GIF728x90.$image,domain=66.42.54.200
+66.42.54.200##.ipprtcnt
+
 # http://www.abg17.com
 abg17.com###fixedban
 abg17.com##article img[width="300"][height="50"]
@@ -169,12 +173,14 @@ ceritaseq.com##.widget widget_buffercode_banner_upload_info
 
 # cerpenhot.com
 ||cerpenhot.com^*/promotion_$image
+cerpenhot.com##.banner
 cerpenhot.com##.qode-banner-left
 cerpenhot.com##.qode-banner-right
 cerpenhot.com##.widget widget_buffercode_banner_upload_info
 cerpenhot.com##.widget_buffercode_banner_upload_info
 cerpenhot.com##.wpb-outer-wrap
 
+downloadajadisini.com##.top-banner
 downloadajadisini.com##.top-banner-mobile
 downloadajadisini.com###main-popup
 downloadajadisini.com#@#[href*="entotin"] img
