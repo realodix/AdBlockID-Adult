@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.11
+! Version: 4.12
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -312,6 +312,7 @@ ceritanakal.xyz##.kln
 fotobokep.info##.simple_overlay
 fotobokepjepang.com##div[id^="adsic"]
 indobispak.com##.header-img-wrapper
+nesaporn.com##.container p:has-text(Advertising)
 ngentot.vip###btm_banner
 ngentotbareng.com##div[id^="adsic"]
 photomemek.com##div[id^="adsic"]
