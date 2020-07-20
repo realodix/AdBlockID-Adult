@@ -1,11 +1,18 @@
 [Adblock Plus 2.0]
-! Version: 4.12
+! Version: 4.13
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
 
 ||2d7e1ea7b8500684a.com^$third-party
 ||d13jhr4vol1304.cloudfront.net^$third-party
+
+# 173.233.156.1, 213.196.31.2
+# Dapat dari mutdfan.com
+||b8pfulzbyj7h.com^$third-party
+||b8pfulzbyj7h.com^$third-party
+||pb5oqguywycj.com^$third-party
+||ufow9xfashbm.com^$third-party
 
 # NS-*.AWSDNS-
 # 205.251.19*.***
@@ -94,8 +101,10 @@
 206.189.85.58##.happy-under-player-mobile
 
 ! 209.58.168.138
+||209.58.168.138/enakbanget/bundle/$image
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 209.58.168.138##.wrapper a[target="_blank"] img
+209.58.168.138###floating_bot
 
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
@@ -150,13 +159,20 @@ vidoza.net##+js(window.open-defuser)
 bokepindoxxi.com##.idmuvi-afterplayer
 bokepindoxxi.com##.idmuvi-topplayer
 
-# BokepFB.Info & Cambaby.info
+# BokepFB
+# abokepfb@gmail.com
 ||96.43.139.235/banner/$image
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 96.43.139.236#@#[href*="96.43.139.236"] img
 96.43.139.236###fixedban
 96.43.139.237##.popUpBannerBox
+96.43.139.235##+js(window.open-defuser)
+96.43.139.236##+js(window.open-defuser)
+96.43.139.236##+js(window.open-defuser)
+96.43.139.237##+js(window.open-defuser)
+mutdfan.com##+js(window.open-defuser)
+@@||mutdfan.com^$generichide
 
 bokep-jepang.co#@#[href*="bokep-jepang."]
 bokep-jepang.co##iframe[style*="width: 100%; height: 70px;"]
@@ -219,6 +235,10 @@ lendirnikmat.xyz##.happy-footer
 lendirnikmat.site#@#[href*="entotin"] img
 lendirnikmat.site#@#[href*="lendirnikmat."]
 
+! 20/7/2020 http://mekicrot.xyz
+||mekicrot.xyz^*/banner-$image
+mekicrot.xyz##.happy-under-player
+
 minioppai.org###floatcenter
 minioppai.org##+js(nobab)
 minioppai.org##+js(window.open-defuser)
@@ -278,6 +298,10 @@ vibokep.xyz##.under-player-ad
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
 
+# xbecek.com
+192.243.98.99##.sidebar-ads
+192.243.98.99##.under-player-ad
+
 # xpanascom.co
 ||128.199.204.40^*/banner-$image
 128.199.204.40,159.65.128.138,159.65.129.249,159.65.132.54,159.89.205.63,178.128.16.25,178.128.53.2,206.189.42.229###fixedban
@@ -321,6 +345,8 @@ subtitlecinema.com##div[id^="adsic"]
 teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
+
+@@||areavideolangka.blogspot.com^$generichide
 
 fap18.net#@#.ad_mobile
 filmbokep33.club#@#[href*="filmbokep"]
