@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.13
+! Version: 4.14
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -105,6 +105,7 @@
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 209.58.168.138##.wrapper a[target="_blank"] img
 209.58.168.138###floating_bot
+209.58.168.138##.ipprtcnt
 
 45.32.122.145##.headbanner
 45.32.122.145###tutuptengah
@@ -138,6 +139,10 @@ bokep-barat.info#@#[href*="bokep-barat."] img
 _GIF728x90.$image,domain=66.42.54.200
 66.42.54.200##.ipprtcnt
 
+! 66.42.87.58
+66.42.87.58###fixedban
+66.42.87.58##.ipprtcnt
+
 # http://www.abg17.com
 abg17.com###fixedban
 abg17.com##article img[width="300"][height="50"]
@@ -164,6 +169,7 @@ bokepindoxxi.com##.idmuvi-topplayer
 ||96.43.139.235/banner/$image
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
+66.42.54.200###close-fixedban
 96.43.139.236#@#[href*="96.43.139.236"] img
 96.43.139.236###fixedban
 96.43.139.237##.popUpBannerBox
@@ -171,6 +177,7 @@ bokepindoxxi.com##.idmuvi-topplayer
 96.43.139.236##+js(window.open-defuser)
 96.43.139.236##+js(window.open-defuser)
 96.43.139.237##+js(window.open-defuser)
+bokep-barat.net###fixedban
 mutdfan.com##+js(window.open-defuser)
 @@||mutdfan.com^$generichide
 
@@ -207,6 +214,13 @@ filmbokepbarat168.com###btm_banner1
 # filmsemi31.blogspot.com
 @@||filmsemi31.blogspot.com^$ghide
 filmsemi31.blogspot.com###sidebar .HTML:has-text(Adv)
+
+! fotobasah.com
+fotobasah.com##.adsbawah
+fotobasah.com###adsic290movie
+fotobasah.com###adsic3bokep
+fotobasah.com###adsic435live
+fotobasah.com###adsic728VPN
 
 gocrot.com##.gocrot_i_b_2
 gocrot.com###gocrot_i_b_4
@@ -326,8 +340,7 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 139.99.51.105##div[id^="adsic"]
 164.68.127.15##.banner-img
 207.148.6.82##.widget-area a[target="_blank"] img
-66.42.87.58###fixedban
-bokep-barat.net###fixedban
+209.97.171.113##+js(window.open-defuser)
 bokep.space##[href*="quadrupleclick.com"]
 bokepbarat.net##.simple_overlay
 bokepindohot.pw##+js(nobab)
