@@ -5,4 +5,4 @@ Filter AdBlockID khusus untuk menangani situs dewasa. Didesain khusus untuk beke
 
 | Name             | Subscribe | Raw Link |
 | -----------------| ----------| -------- |
-| AdBlockID+ Adult | [subscribe](https://raw.githubusercontent.com/realodix/AdBlockID-Adult/master/AdBlockID_Adult.txt) |https://raw.githubusercontent.com/realodix/AdBlockID-Adult/master/AdBlockID_Adult.txt |
+| AdBlockID+ Adult | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/realodix/AdBlockID-Adult/master/AdBlockID_Adult.txt) |https://raw.githubusercontent.com/realodix/AdBlockID-Adult/master/AdBlockID_Adult.txt |
