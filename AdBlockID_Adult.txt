@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.14
+! Version: 4.15
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -81,6 +81,13 @@
 167.71.196.69##.happy-inside-player
 167.71.196.69##.happy-under-player
 167.71.196.69##+js(window.open-defuser)
+167.71.196.69##+js(acis, isp_base_url)
+
+! 188.166.243.245
+||188.166.243.245/wp-content/uploads/*.gif$image
+188.166.243.245###netkevin-popup
+188.166.243.245###netkevin-overlay
+188.166.243.245##.happy-under-player
 
 ! 192.243.98.23
 192.243.98.23##.happy-header
@@ -90,24 +97,26 @@
 192.243.98.23##.happy-under-player-mobile
 192.243.98.23###floating_ads_bottom_textcss_container
 
+! 198.54.112.76
+198.54.112.76###tutupen
+198.54.112.76##.happy-under-player
+
 ! 199.38.245.239
 ||199.38.245.239/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=199.38.245.239
 199.38.245.239##.elementor-row a[target="_blank"] img
 
-# 206.189.85.58
-/banner-$image,domain=206.189.85.58
-206.189.85.58##.happy-under-player
-206.189.85.58##.happy-under-player-mobile
-
-! 209.58.168.138
-||209.58.168.138/enakbanget/bundle/$image
-209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
-209.58.168.138##.wrapper a[target="_blank"] img
-209.58.168.138###floating_bot
-209.58.168.138##.ipprtcnt
+! 206.189.46.152
+||imgur.com/*.gif$image,domain=206.189.46.152
+||blogspot.com/*.gif$image,domain=206.189.46.152
+||206.189.46.152/wp-content/uploads/*.gif$image
+/wp-content/plugins/uji-popup-pro/*$script,domain=206.189.46.152
+206.189.46.152##.ujimodal
+206.189.46.152##.jquery-modal
 
 45.32.122.145##.headbanner
+45.32.122.145###kontolbanner
+45.32.122.145##.cm-popup-modal
 45.32.122.145###tutuptengah
 45.32.122.145#@#[href*="103.10.200.45"]
 
@@ -142,6 +151,14 @@ _GIF728x90.$image,domain=66.42.54.200
 ! 66.42.87.58
 66.42.87.58###fixedban
 66.42.87.58##.ipprtcnt
+
+! 80.209.252.69
+||80.209.252.69/btn_close.gif
+80.209.252.69###fixedban
+
+! 94.237.69.126
+94.237.69.126###advertisement
+||tokosexy.com/$subdocument
 
 # http://www.abg17.com
 abg17.com###fixedban
@@ -227,6 +244,10 @@ gocrot.com###gocrot_i_b_4
 gocrot.com###gocrot_i_b_3
 gocrot.com##img[height="70"][width="1100"]
 
+! hour24s.com
+||blogspot.com/*.gif$image,domain=hour24s.com
+||munjhu.com/wp-content/uploads/*.gif$image,domain=hour24s.com
+
 # igotaut.xyz
 @@||terrapsps.com^$script,domain=igotaut.xyz
 igotaut.xyz##.notif:has-text(Adblock)
@@ -236,10 +257,26 @@ indosemi45.org###ouibounce-modal
 indosemi45.org##.idmuvi-banner-beforecontent
 indosemi45.org##.idmuvi-topbanner-aftermenu
 
+inibokep.pro##.happy-header
+inibokep.pro##.happy-under-player
+inibokep.pro##.happy-footer
+
 jagogoyang.info##[href^="https://apgrv.com/www/delivery/ck.php"]
 jagogoyang.info#@#[href*="entotin"] img
 jagogoyang.info#@#[href*="jagogoyang."]
 jagogoyang.info#@#img[alt*="nonton video bokep" i]
+
+! JAVCUY.COM
+! claudiashinta.bv@gmail.com, ayeur88@gmail.com
+/banner-$image,domain=206.189.85.58
+206.189.85.58##.happy-under-player
+206.189.85.58##.happy-under-player-mobile
+.gif$image,domain=209.58.168.138
+||209.58.168.138/enakbanget/bundle/$image
+209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
+209.58.168.138##.wrapper a[target="_blank"] img
+209.58.168.138###floating_bot
+209.58.168.138##.ipprtcnt
 
 lendirnikmat.site##.happy-inside-player
 lendirnikmat.xyz##.happy-header
@@ -249,7 +286,11 @@ lendirnikmat.xyz##.happy-footer
 lendirnikmat.site#@#[href*="entotin"] img
 lendirnikmat.site#@#[href*="lendirnikmat."]
 
-! 20/7/2020 http://mekicrot.xyz
+! mekicrot
+||mekicrot.vip^*/banner-$image
+mekicrot.vip##.happy-under-player
+mekicrot.vip##.happy-sidebar
+mekicrot.vip##.happy-header
 ||mekicrot.xyz^*/banner-$image
 mekicrot.xyz##.happy-under-player
 
@@ -293,12 +334,20 @@ redtube53.info##[href*="/track/"]
 ##.semprotnenenmontok_adalah_pujaan_hatiku
 46.166.167.16,semprot.com##.js-post:has-text(Banned)
 
+! sikontil.site
+||sikontil.site/wp-content/uploads/2020/09/tg.gif
+sikontil.site##.happy-sidebar
+
 # sukanontonbokep
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###fixedban
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##.under-player-ad
 157.245.195.114,157.245.63.252,167.99.74.239,206.189.33.12,67.99.74.239,68.183.237.173##.with-sidebar-ads
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173###content a[target="_blank"] img
 157.245.195.114,157.245.63.252,167.99.74.239,167.99.77.72,206.189.33.12,67.99.74.239,68.183.237.173##+js(window.open-defuser)
+
+tanteseksi.life##.happy-header
+tanteseksi.life##.happy-sidebar
+tanteseksi.life##.happy-footer
 
 # Video Crot
 167.99.31.83,188.166.197.213##+js(window.open-defuser)
@@ -312,9 +361,14 @@ vibokep.xyz##.under-player-ad
 vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
 vimaxdenpasar.com##.entry-content a[target="_blank"] img
 
+! warungcoli.blogspot.com
+warungcoli.blogspot.com##.pop-overlay
+warungcoli.blogspot.com##.popbox
+
 # xbecek.com
 192.243.98.99##.sidebar-ads
 192.243.98.99##.under-player-ad
+192.243.98.99##+js(window.open-defuser)
 
 # xpanascom.co
 ||128.199.204.40^*/banner-$image
@@ -328,10 +382,15 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 ||blogspot.com/*.gif$image,domain=178.128.100.128
 ||blogspot.com/*.gif$image,domain=192.243.98.23
 ||blogspot.com/*.gif$image,domain=khalidcompany.com
+||blogspot.com/*.gif$image,domain=nontonlayarxxx.blogspot.com
 
+||bokep.host/ads.php
 ||bugil.top/adv/$image
 ||bugilfoto.com/banner/$image
 ||filmxxx.xyz^*/ads-$image
+/ngiklan/*$image,domain=94.237.69.118
+/wp-content/plugins/uji-popup-pro/*$script,domain=206.189.84.204
+128.199.243.91##.happy-header
 139.99.118.115##div[id^="adsic"]
 139.99.33.195##div[id^="adsic"]
 139.99.33.199##div[id^="adsic"]
@@ -339,27 +398,43 @@ vimaxdenpasar.com##.entry-content a[target="_blank"] img
 139.99.33.214##div[id^="adsic"]
 139.99.51.105##div[id^="adsic"]
 164.68.127.15##.banner-img
+185.63.253.200##.banner-img
+206.189.85.58##.btm_ban
 207.148.6.82##.widget-area a[target="_blank"] img
-209.97.171.113##+js(window.open-defuser)
+45.114.117.23##.kln
+94.237.69.121###advertisement
+94.237.73.122###advertisement
+94.237.74.194###advertisement
+94.237.74.225###advertisement
+94.237.78.220###advertisement
 bokep.space##[href*="quadrupleclick.com"]
 bokepbarat.net##.simple_overlay
-bokepindohot.pw##+js(nobab)
 bugil.online##.happy-inside-player
 ceritanakal.xyz##.kln
 fotobokep.info##.simple_overlay
 fotobokepjepang.com##div[id^="adsic"]
 indobispak.com##.header-img-wrapper
+lonteku.monster##.happy-header
 nesaporn.com##.container p:has-text(Advertising)
 ngentot.vip###btm_banner
 ngentotbareng.com##div[id^="adsic"]
 photomemek.com##div[id^="adsic"]
 stampin-de-va.blogspot.com##.seoquake-nofollow
 subtitlecinema.com##div[id^="adsic"]
+sukacrot.site##.happy-under-player
 teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
 
-@@||areavideolangka.blogspot.com^$generichide
+155.138.155.177##+js(aopr, $.magnificPopup.open)
+209.97.171.113##+js(window.open-defuser)
+bokepindohot.pw##+js(nobab)
+tergenit.life##+js(aopr, $.magnificPopup.open)
 
+@@||areavideolangka.blogspot.com^$generichide
+@@||bokepking.site^$generichide
+
+#@#img[alt*="nonton video bokep" i]
+#@#img[title*="nonton video bokep" i]
 fap18.net#@#.ad_mobile
 filmbokep33.club#@#[href*="filmbokep"]
