@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.15
+! Version: 4.16
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -225,6 +225,11 @@ downloadajadisini.com##.top-banner-mobile
 downloadajadisini.com###main-popup
 downloadajadisini.com#@#[href*="entotin"] img
 
+filmbokep21.cam##.happy-header
+filmbokep21.cam##.happy-sidebar
+filmbokep21.cam##.happy-under-player
+filmbokep21.cam##.happy-footer
+
 filmbokepbarat168.com#@#[href*="filmbokep"]
 filmbokepbarat168.com###btm_banner1
 
@@ -259,6 +264,7 @@ indosemi45.org##.idmuvi-topbanner-aftermenu
 
 inibokep.pro##.happy-header
 inibokep.pro##.happy-under-player
+inibokep.pro##.happy-sidebar
 inibokep.pro##.happy-footer
 
 jagogoyang.info##[href^="https://apgrv.com/www/delivery/ck.php"]
@@ -389,6 +395,7 @@ warungcoli.blogspot.com##.popbox
 ||bugilfoto.com/banner/$image
 ||filmxxx.xyz^*/ads-$image
 /ngiklan/*$image,domain=94.237.69.118
+/ngiklan/*$image,domain=94.237.69.98
 /wp-content/plugins/uji-popup-pro/*$script,domain=206.189.84.204
 128.199.243.91##.happy-header
 139.99.118.115##div[id^="adsic"]
@@ -426,10 +433,13 @@ teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
 
-155.138.155.177##+js(aopr, $.magnificPopup.open)
-209.97.171.113##+js(window.open-defuser)
 bokepindohot.pw##+js(nobab)
+128.199.66.55##+js(window.open-defuser)
+139.59.223.160##+js(window.open-defuser)
+209.97.171.113##+js(window.open-defuser)
+155.138.155.177##+js(aopr, $.magnificPopup.open)
 tergenit.life##+js(aopr, $.magnificPopup.open)
+198.252.110.95##+js(aopr, pum_popups, popup-banner)
 
 @@||areavideolangka.blogspot.com^$generichide
 @@||bokepking.site^$generichide
