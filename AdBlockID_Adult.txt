@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.18
+! Version: 4.19
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -464,10 +464,21 @@ filmbokep33.club#@#[href*="filmbokep"]
 
 ! INTERNATIONAL
 /nativeads.$script,redirect-rule=noopjs,domain=easyload.io
+adultdeepfakes.com##+js(window.open-defuser)
+celebritysex.co##+js(window.open-defuser)
+deepfakeporn.net##+js(window.open-defuser)
+deepfakesweb.com##+js(window.open-defuser)
 hotmovs.com##.underplayer
 kpopdeepfakes.com#@##banner_ad
+kpopdeepfakes.com##+js(window.open-defuser)
 kpopdeepfakes.net###ad-overlay
+kpopdeepfakes.net##+js(window.open-defuser)
+mrdeepfakes.com##+js(window.open-defuser)
+sakurajav.com##.sadDIV
+sakurajav.com##.widget_advertising
+sakurajav.com##a[rel*="sponsored"]
 sexcelebrity.net##.ipprtcnt
+sexcelebrity.net##+js(window.open-defuser)
 xhamster2.com##.player-ad-close
 xnxx.com##.remove-ads
 xnxx.com##.remove-ads-link
