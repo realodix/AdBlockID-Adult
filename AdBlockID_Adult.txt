@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.20
+! Version: 4.21
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -9,27 +9,23 @@
 
 # 173.233.156.1, 213.196.31.2
 # Dapat dari mutdfan.com
-||b8pfulzbyj7h.com^$third-party
-||pb5oqguywycj.com^$third-party
-||ufow9xfashbm.com^$third-party
+
+# clickadu.com
+# 205.251.192.212, 205.251.194.18
+# 205.251.197.146, 205.251.198.77
+# dapat dari 159.89.214.26
+||asgclickpp.com^$third-party
 
 # NS-*.AWSDNS-
 # 205.251.19*.***
-||2cnjuh34jbhub.com^$third-party
-||2cnjuh34jbstar.com^$third-party
-||mrjb7hvcks.com^$third-party
-||pocrowpush.com^$third-party
-||premiumvertising.com^$third-party
-||roujaufu.net^$third-party
-||smart2cnjuh34jb.com^$third-party
 ||terrasdsdstd.com^$third-party
 
 # https://github.com/Yhonay/antipopads
 # 208.94.148.2, 208.80.124.2, 208.80.125.2
 # 208.80.126.2, 208.80.127.2
-||intellipopup.com^$third-party
-||shqbsdjatunl.com^$third-party
-||ueuodgnrhb.com^$third-party
+# dapat dari 159.89.85.66
+||ivfihumeajjmbc.com^$third-party
+||sqhneencmysrk.com^$third-party
 ||vumclvwizwrbhi.com^$third-party
 ||xhihzgwcplmh.com^$third-party
 
@@ -190,6 +186,19 @@ vidoza.net##+js(window.open-defuser)
 bokepindoxxi.com##.idmuvi-afterplayer
 bokepindoxxi.com##.idmuvi-topplayer
 
+! BOKEPCUY.NET
+! claudiashinta.bv@gmail.com, ayeur88@gmail.com
+/banner-$image,domain=206.189.85.58
+206.189.85.58##.happy-under-player
+206.189.85.58##.happy-under-player-mobile
+.gif$image,domain=209.58.168.138
+||209.58.168.138/enakbanget/bundle/$image
+209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
+209.58.168.138##.wrapper a[target="_blank"] img
+209.58.168.138###floating_bot
+209.58.168.138##.ipprtcnt
+206.189.85.58,209.58.168.138##+js(window.open-defuser)
+
 # BokepFB
 # abokepfb@gmail.com
 ||96.43.139.235/banner/$image
@@ -283,18 +292,6 @@ jagogoyang.info#@#img[alt*="nonton video bokep" i]
 
 jambulmemek.fun###floating_banner_top
 jambulmemek.fun##.headbanner
-
-! JAVCUY.COM
-! claudiashinta.bv@gmail.com, ayeur88@gmail.com
-/banner-$image,domain=206.189.85.58
-206.189.85.58##.happy-under-player
-206.189.85.58##.happy-under-player-mobile
-.gif$image,domain=209.58.168.138
-||209.58.168.138/enakbanget/bundle/$image
-209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
-209.58.168.138##.wrapper a[target="_blank"] img
-209.58.168.138###floating_bot
-209.58.168.138##.ipprtcnt
 
 lendirnikmat.site##.happy-inside-player
 lendirnikmat.xyz##.happy-header
@@ -450,14 +447,19 @@ teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
 
-bokepindohot.pw##+js(nobab)
+128.199.175.251##+js(window.open-defuser)
 128.199.66.55##+js(window.open-defuser)
 139.59.223.160##+js(window.open-defuser)
+159.89.198.98##+js(window.open-defuser)
+159.89.214.26##+js(window.open-defuser)
+178.128.220.28##+js(window.open-defuser)
+206.189.88.35##+js(window.open-defuser)
 209.97.171.113##+js(window.open-defuser)
 155.138.155.177##+js(aopr, $.magnificPopup.open)
 tergenit.life##+js(aopr, $.magnificPopup.open)
 198.252.110.95##+js(aopr, pum_popups, popup-banner)
 
+bokepindohot.pw##+js(nobab)
 @@||areavideolangka.blogspot.com^$generichide
 @@||bokepking.site^$generichide
 
@@ -487,3 +489,5 @@ xhamster2.com##.player-ad-close
 xnxx.com##.remove-ads
 xnxx.com##.remove-ads-link
 xnxx.com###ad-header-mobile
+xvideos.com##.remove-ads
+xvideos.com##.remove-ads-link
