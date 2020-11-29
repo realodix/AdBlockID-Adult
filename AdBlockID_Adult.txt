@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.22
+! Version: 4.23
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -344,6 +344,8 @@ putri77.com,putri77.info,putri77.org##div[id^="adsic"]
 
 redtube53.info##.redtu-sticky
 redtube53.info##[href*="/track/"]
+
+segelasjeruk.blogspot.com#@##[href^="http://raboninco.com/"]
 
 # Semprot
 ##.semprotnenenmontok_adalah_pujaan_hatiku
