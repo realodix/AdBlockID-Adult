@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.21
+! Version: 4.22
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -470,24 +470,69 @@ filmbokep33.club#@#[href*="filmbokep"]
 
 ! INTERNATIONAL
 /nativeads.$script,redirect-rule=noopjs,domain=easyload.io
+/tghr.js$domain=javhihi.me
+18porno.tv##.banner
+18tube.xxx##.banner
+3pornstarmovies.com##.banner
 adultdeepfakes.com##+js(window.open-defuser)
+alphaporno.com##.sponsor
+amateurporn1.com##.spot
+amaturetube.net##.banners
 celebritysex.co##+js(window.open-defuser)
 deepfakeporn.net##+js(window.open-defuser)
 deepfakesweb.com##+js(window.open-defuser)
+familyporn.tv##.spot
+fapster.xxx##.sponsor
+feetporno.com##.spot
+fpo.xxx##.sponsor
+freehardcore.com##.spot
+hdtube.porn##.banners
+hdxxx.me##.banners
+hellporno.net##.banner
 hotmovs.com##.underplayer
+hotstunners.com##.banners
+indiansgetfucked.com##.banner
+its.porn##.sponsor
+javcloud.com##.banner
+jawcloud.co##.banner
 kpopdeepfakes.com#@##banner_ad
 kpopdeepfakes.com##+js(window.open-defuser)
 kpopdeepfakes.net###ad-overlay
 kpopdeepfakes.net##+js(window.open-defuser)
+lolhentai.net##.sponsor
 mrdeepfakes.com##+js(window.open-defuser)
+pornbimbo.com##.spot
+pornburst.xxx##.banners
+pornfapr.com##.sponsor
+porngem.com##.sponsor
+pornhd.com,history.com##.ad
+pornwatchers.com##.advert
+pornwhite.com##.banner
+punishbang.com##.banners
+qpornx.com##.banner
 sakurajav.com##.sadDIV
 sakurajav.com##.widget_advertising
 sakurajav.com##a[rel*="sponsored"]
 sexcelebrity.net##.ipprtcnt
 sexcelebrity.net##+js(window.open-defuser)
+sexwebvideo.com##.sponsor
+supersextube.pro##.ad
+teenfuckhd.com##.banners
+tube18.sex##.banner
+uiporn.com##.sponsor
+vibexxx.com##.banners
+vikiporn.com##.sponsor
+vqporn.com##.sponsor
+vqporn.com##.spot
+xfantazy.com##.banner
 xhamster2.com##.player-ad-close
 xnxx.com##.remove-ads
 xnxx.com##.remove-ads-link
 xnxx.com###ad-header-mobile
 xvideos.com##.remove-ads
 xvideos.com##.remove-ads-link
+xxxadultphoto.com##.banner
+xxxadultphoto.com##.banners
+xz2.xyz##.banner
+youramateurporn.com##.banner
+youx.xxx##.banner
