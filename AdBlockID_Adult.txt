@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.23
+! Version: 4.24
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -59,6 +59,9 @@
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
 128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
 # https://xvidx.inidokter.com/jwplayer9.js
+
+128.199.68.59###netkevin-overlay
+128.199.68.59###netkevin-popup
 
 128.199.84.59##.content-area a[target="_blank"] img
 128.199.84.59###floating_ads_bottom_textcss_container
@@ -127,6 +130,9 @@
 45.76.33.4##.bannersinglefot
 45.76.33.4##.ktz_banner
 45.76.33.4###btm_banner
+
+45.77.246.31###netkevin-popup
+45.77.246.31###netkevin-overlay
 
 # 45.77.76.243
 # bokep-barat.info
