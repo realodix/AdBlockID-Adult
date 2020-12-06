@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.26
+! Version: 4.27
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -248,6 +248,11 @@ downloadajadisini.com##.top-banner
 downloadajadisini.com##.top-banner-mobile
 downloadajadisini.com###main-popup
 downloadajadisini.com#@#[href*="entotin"] img
+
+dunia121.blogspot.com##.gambar-space
+dunia121.blogspot.com###kr-box
+dunia121.blogspot.com###teaser2
+dunia121.blogspot.com###teaser3
 
 filmbokep21.cam##.happy-header
 filmbokep21.cam##.happy-sidebar
