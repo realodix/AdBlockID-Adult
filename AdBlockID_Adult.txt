@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.28
+! Version: 4.29
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -24,8 +24,6 @@
 # 208.94.148.2, 208.80.124.2, 208.80.125.2
 # 208.80.126.2, 208.80.127.2
 # dapat dari 159.89.85.66
-||ivfihumeajjmbc.com^$third-party
-||sqhneencmysrk.com^$third-party
 ||vumclvwizwrbhi.com^$third-party
 ||xhihzgwcplmh.com^$third-party
 
