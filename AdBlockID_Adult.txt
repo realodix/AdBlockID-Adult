@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.29
+! Version: 4.30
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -426,6 +426,7 @@ warungcoli.blogspot.com##.popbox
 139.99.118.115##div[id^="adsic"]
 139.99.33.195##div[id^="adsic"]
 139.99.33.199##div[id^="adsic"]
+139.99.33.210##div[id^="adsic"]
 139.99.33.213##div[id^="adsic"]
 139.99.33.214##div[id^="adsic"]
 139.99.51.105##div[id^="adsic"]
