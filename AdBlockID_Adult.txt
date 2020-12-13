@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.30
+! Version: 4.31
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -460,12 +460,14 @@ teenpornvideo.fun##.full-ave:has-text(Adv)
 tetek.xyz##.happy-sidebar > [href="http://cibaibin.com"]
 tontonan.net##.footer-sticky
 
+128.199.174.22##+js(window.open-defuser)
 128.199.175.251##+js(window.open-defuser)
 128.199.66.55##+js(window.open-defuser)
 139.59.223.160##+js(window.open-defuser)
 159.89.198.98##+js(window.open-defuser)
 159.89.214.26##+js(window.open-defuser)
 178.128.220.28##+js(window.open-defuser)
+178.128.62.5##+js(window.open-defuser)
 206.189.88.35##+js(window.open-defuser)
 209.97.171.113##+js(window.open-defuser)
 155.138.155.177##+js(aopr, $.magnificPopup.open)
