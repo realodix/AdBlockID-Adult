@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.32
+! Version: 4.33
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -85,6 +85,9 @@
 167.71.196.69##.happy-under-player
 167.71.196.69##+js(window.open-defuser)
 167.71.196.69##+js(acis, isp_base_url)
+
+185.183.96.200###divkanan
+185.183.96.200###divbwh
 
 ! 188.166.243.245
 ||188.166.243.245/wp-content/uploads/*.gif$image
