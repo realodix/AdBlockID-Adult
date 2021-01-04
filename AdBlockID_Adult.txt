@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.33
+! Version: 4.34
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -14,18 +14,10 @@
 # 205.251.192.212, 205.251.194.18
 # 205.251.197.146, 205.251.198.77
 # dapat dari 159.89.214.26
-||asgclickpp.com^$third-party
 
 # NS-*.AWSDNS-
 # 205.251.19*.***
-||terrasdsdstd.com^$third-party
 
-# https://github.com/Yhonay/antipopads
-# 208.94.148.2, 208.80.124.2, 208.80.125.2
-# 208.80.126.2, 208.80.127.2
-# dapat dari 159.89.85.66
-||vumclvwizwrbhi.com^$third-party
-||xhihzgwcplmh.com^$third-party
 
 ##[href*="pocrowpush.com"]
 
@@ -37,11 +29,6 @@
 111.90.150.188,128.199.89.53##.ktz-bannersingletop
 111.90.150.188,128.199.89.53###netkevin-overlay
 111.90.150.188,128.199.89.53###netkevin-popup
-
-128.199.102.111##.happy-inside-player
-128.199.102.111##.header-ad-mobile
-128.199.102.111##.under-player-ad-mobile
-128.199.102.111##+js(window.open-defuser)
 
 # 128.199.102.136
 ||anon.wapsite.info/banner/$image
@@ -71,12 +58,6 @@
 
 157.230.193.154##.banner-img
 157.230.193.154###top_banner
-
-159.65.130.32##.header-ad-mobile
-159.65.130.32##.under-player-ad
-
-159.89.207.166#@#[href*="159.89.207.166"]
-159.89.207.166###content a[target="_blank"] img
 
 159.89.221.2##.inside-player-ad
 159.89.221.2##+js(window.open-defuser)
@@ -181,10 +162,6 @@ abg17.com###main-wrapper a[target="_blank"] img
 abg17.com##body > center a[target="_blank"] img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
 
-# apkori.website
-apkori.website##+js(aopr, window.DHAntiAdBlocker)
-vidoza.net##+js(window.open-defuser)
-
 # ayuoctaavia[at]gmail.com
 ||blogspot.com/*.gif$image,domain=128.199.176.163
 128.199.176.163,bokepindoxxi.com##+js(aopr, document.oncontextmenu)
@@ -240,20 +217,6 @@ ceritaseq.com##.qode-banner-left
 ceritaseq.com##.wpb_overlay
 ceritaseq.com##.widget widget_buffercode_banner_upload_info
 
-# cerpenhot.com
-||cerpenhot.com^*/promotion_$image
-cerpenhot.com##.banner
-cerpenhot.com##.qode-banner-left
-cerpenhot.com##.qode-banner-right
-cerpenhot.com##.widget widget_buffercode_banner_upload_info
-cerpenhot.com##.widget_buffercode_banner_upload_info
-cerpenhot.com##.wpb-outer-wrap
-
-downloadajadisini.com##.top-banner
-downloadajadisini.com##.top-banner-mobile
-downloadajadisini.com###main-popup
-downloadajadisini.com#@#[href*="entotin"] img
-
 dunia121.blogspot.com##.gambar-space
 dunia121.blogspot.com###kr-box
 dunia121.blogspot.com###teaser2
@@ -282,15 +245,6 @@ gocrot.com##.gocrot_i_b_2
 gocrot.com###gocrot_i_b_4
 gocrot.com###gocrot_i_b_3
 gocrot.com##img[height="70"][width="1100"]
-
-! hour24s.com
-||blogspot.com/*.gif$image,domain=hour24s.com
-||munjhu.com/wp-content/uploads/*.gif$image,domain=hour24s.com
-
-# igotaut.xyz
-@@||terrapsps.com^$script,domain=igotaut.xyz
-igotaut.xyz##.notif:has-text(Adblock)
-igotaut.xyz##+js(window.open-defuser)
 
 indosemi45.org###ouibounce-modal
 indosemi45.org##.idmuvi-banner-beforecontent
@@ -349,10 +303,6 @@ pepek.bar##.happy-inside-player
 pepek.bar##.happy-under-player
 pepek.bar##.happy-footer
 
-porno-pornox.com##.qode-banner-left
-porno-pornox.com##.qode-banner-right
-porno-pornox.com##.wpb-outer-wrap
-
 # putri77
 54.36.246.81##div[id^="adsic"]
 ceritabokepindonesia.info##div[id^="adsic"]
@@ -394,17 +344,9 @@ toket2montoksmp.club###divbwh
 ||vibokep.xyz^*/banners/$image
 vibokep.xyz##.under-player-ad
 
-vimaxdenpasar.com##[href^="https://pay-link1.blogspot.com/redirect"]
-vimaxdenpasar.com##.entry-content a[target="_blank"] img
-
 ! warungcoli.blogspot.com
 warungcoli.blogspot.com##.pop-overlay
 warungcoli.blogspot.com##.popbox
-
-# xbecek.com
-192.243.98.99##.sidebar-ads
-192.243.98.99##.under-player-ad
-192.243.98.99##+js(window.open-defuser)
 
 # xpanascom.co
 ||128.199.204.40^*/banner-$image
