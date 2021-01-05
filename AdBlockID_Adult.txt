@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.34
+! Version: 4.35
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -203,6 +203,9 @@ mutdfan.com##+js(window.open-defuser)
 bokep-jepang.co#@#[href*="bokep-jepang."]
 bokep-jepang.co##iframe[style*="width: 100%; height: 70px;"]
 
+bokepfull21.fun###largebaner
+bokepfull21.fun##.headbanner
+
 ! bokepv.com
 bokepv.com##.widget-content a[target="_blank"] img
 bokepv.com##.widget-list a[target="_blank"] img
@@ -221,6 +224,7 @@ dunia121.blogspot.com##.gambar-space
 dunia121.blogspot.com###kr-box
 dunia121.blogspot.com###teaser2
 dunia121.blogspot.com###teaser3
+dunia121.blogspot.com##a[target="_blank"] > img
 
 filmbokep21.cam##.happy-header
 filmbokep21.cam##.happy-sidebar
@@ -260,8 +264,10 @@ jagogoyang.info#@#[href*="entotin"] img
 jagogoyang.info#@#[href*="jagogoyang."]
 jagogoyang.info#@#img[alt*="nonton video bokep" i]
 
-jambulmemek.fun###floating_banner_top
+jambulmemek.best##.popmake
+jambulmemek.best##.popmake-overlay
 jambulmemek.fun##.headbanner
+jambulmemek.fun###floating_banner_top
 
 lendirnikmat.site##.happy-inside-player
 lendirnikmat.xyz##.happy-header
@@ -347,6 +353,8 @@ vibokep.xyz##.under-player-ad
 ! warungcoli.blogspot.com
 warungcoli.blogspot.com##.pop-overlay
 warungcoli.blogspot.com##.popbox
+warungcoli.blogspot.com##.pop-overlay
+warungcoli2.blogspot.com##.popbox
 
 # xpanascom.co
 ||128.199.204.40^*/banner-$image
