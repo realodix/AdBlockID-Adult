@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.35
+! Version: 4.36
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -38,11 +38,10 @@
 128.199.102.136###netkevin-overlay
 128.199.102.136###netkevin-popup
 
-.gif$image,domain=128.199.243.91
-128.199.243.91##.happy-header
-
-128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,pornodnevnik.com,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
-128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,pornodnevnik.com,pornomouse.xyz,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,66.42.54.66,joynet.info,fuckpornsex.info,seporno.info,shmm.info,vetv.info,yogaua.info##+js(nobab)
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,seporno.info,shmm.info,vetv.info,yogaua.info##+js(aopr, rPop)
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,seporno.info,shmm.info,vetv.info,yogaua.info###netkevin-overlay
+128.199.68.59,139.180.219.176,149.28.156.65,159.89.114.95,207.148.70.66,45.76.156.98,45.77.246.31,45.77.37.28,626porn.info,66.42.54.66,abcinema.xyz,fuckpornsex.info,joynet.info,seporno.info,shmm.info,vetv.info,yogaua.info###netkevin-popup
 # https://xvidx.inidokter.com/jwplayer9.js
 
 128.199.68.59###netkevin-overlay
@@ -161,6 +160,9 @@ abg17.com###livechat-eye-catcher-img
 abg17.com###main-wrapper a[target="_blank"] img
 abg17.com##body > center a[target="_blank"] img
 ||cdn.livechatinc.com/cloud/$image,domain=abg17.com
+
+! anefcinta@yahoo.com
+17bokep.xyz,bfhot.xyz,bfload.xyz,bigobugil.xyz,bigosd.xyz,bokepindo.icu,bokepjawa.icu,bokepsd.online,bokeptante.xyz,bugilviral.xyz,ceweksd.xyz,cipok.xyz,hotsd.icu,idbokep.icu,indolokal.xyz,indoporn.icu,indosex.xyz,inibokep.xyz,kanviral.xyz,kumpul.icu,liveindo.xyz,loadindo.xyz,mekisd.xyz,memekgadis.xyz,mesumsex.xyz,mukacrot.xyz,ngentotsd.xyz,nontonbf.xyz,nontonsd.xyz,nurulsex.xyz,pornindo.xyz,sdid.xyz,sdporn.icu,sexbocah.xyz,streamindo.icu,terbarusex.xyz,viralhot.xyz##+js(window.open-defuser)
 
 # ayuoctaavia[at]gmail.com
 ||blogspot.com/*.gif$image,domain=128.199.176.163
