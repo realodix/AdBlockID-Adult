@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.37
+! Version: 4.38
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -181,9 +181,9 @@ bokepindoxxi.com##.idmuvi-topplayer
 ||209.58.168.138/enakbanget/bundle/$image
 209.58.168.138##.entry-body img[heigh="200px"][width="320px"]
 209.58.168.138##.wrapper a[target="_blank"] img
-209.58.168.138###floating_bot
+209.58.168.138,93.115.31.157,93.115.31.158##.btm_ban
 209.58.168.138##.ipprtcnt
-206.189.85.58,209.58.168.138##+js(window.open-defuser)
+206.189.85.58,209.58.168.138,93.115.31.157,93.115.31.158##+js(window.open-defuser)
 
 # BokepFB
 # abokepfb@gmail.com
