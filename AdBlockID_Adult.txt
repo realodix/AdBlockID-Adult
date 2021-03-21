@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.39
+! Version: 4.40
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -487,7 +487,6 @@ pornhd.com,history.com##.ad
 pornwatchers.com##.advert
 pornwhite.com##.banner
 pornzog.com##.adv-block-container
-pornzog.com##.video-ntv:has-text(/ADV/i)
 punishbang.com##.banners
 qpornx.com##.banner
 sakurajav.com##.sadDIV
