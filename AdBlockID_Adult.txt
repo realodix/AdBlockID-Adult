@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.40
+! Version: 4.41
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -515,3 +515,5 @@ xxxadultphoto.com##.banners
 xz2.xyz##.banner
 youramateurporn.com##.banner
 youx.xxx##.banner
+! mov18plus.com
+@@||ping.staticmoly.me^$script,domain=vidmoly.to
