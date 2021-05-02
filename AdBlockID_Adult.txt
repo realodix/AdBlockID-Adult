@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.41
+! Version: 4.42
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -392,6 +392,7 @@ warungcoli2.blogspot.com##.popbox
 139.99.33.213##div[id^="adsic"]
 139.99.33.214##div[id^="adsic"]
 139.99.51.105##div[id^="adsic"]
+164.68.105.199###tutupen
 164.68.127.15##.banner-img
 185.63.253.200##.banner-img
 206.189.85.58##.btm_ban
@@ -415,6 +416,7 @@ nesaporn.com##.container p:has-text(Advertising)
 ngentot.vip###btm_banner
 ngentotbareng.com##div[id^="adsic"]
 photomemek.com##div[id^="adsic"]
+sepongin.xyz###ads
 stampin-de-va.blogspot.com##.seoquake-nofollow
 subtitlecinema.com##div[id^="adsic"]
 sukacrot.site##.happy-under-player
@@ -495,6 +497,7 @@ sakurajav.com##a[rel*="sponsored"]
 sexcelebrity.net##.ipprtcnt
 sexcelebrity.net##+js(window.open-defuser)
 sexwebvideo.com##.sponsor
+simantan.me###headbaner
 supersextube.pro##.ad
 teenfuckhd.com##.banners
 tube18.sex##.banner
