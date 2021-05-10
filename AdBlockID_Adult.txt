@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 4.42
+! Version: 4.43
 ! Title: AdBlockID Plus (Adult)
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/realodix/AdBlockIDPlusAdult
@@ -325,8 +325,13 @@ redtube53.info##[href*="/track/"]
 segelasjeruk.blogspot.com#@##[href^="http://raboninco.com/"]
 
 # Semprot
-##.semprotnenenmontok_adalah_pujaan_hatiku
-46.166.167.16,semprot.com##.js-post:has-text(Banned)
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com###fixedbox
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com###semprotnenenmontok_f
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com##.semprotnenenmontok_adalah_pujaan_hatiku
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com##.semprotnenenmontok_mobile_header_footer
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com##.semprotnenenmontok_w50
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com##.js-post:has-text(Banned)
+46.166.167.16,semprot.com,semprotgo.com,semprotlah.com#@#.adVertical
 
 ! sikontil.site
 ||sikontil.site/wp-content/uploads/2020/09/tg.gif
