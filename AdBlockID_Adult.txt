@@ -255,6 +255,8 @@ gocrot.com##img[height="70"][width="1100"]
 indosemi45.org###ouibounce-modal
 indosemi45.org##.idmuvi-banner-beforecontent
 indosemi45.org##.idmuvi-topbanner-aftermenu
+indosemi45.org##+js(aopr, popup_custom_data)
+/wp-content/plugins/cm-pop-up-banners/*$~css,domain=indosemi45.org
 
 inibokep.pro##.happy-header
 inibokep.pro##.happy-under-player
